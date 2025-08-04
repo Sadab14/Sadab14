@@ -1,7 +1,7 @@
 
 [ReadMe.md](https://github.com/user-attachments/files/21581705/ReadMe.md)
 # 💫 About Me:
-👋 Hi, I'm Sadab Shakib — a passionate Computer Science student with a love for building practical, people-focused software.<br><br>🌱 Learning full-stack web development and machine learning.<br><br>💡 Always exploring how tech can solve real-life problems—from smart plant care with Arduino to personalized productivity tools.<br><br>📫 Let's connect: sadabshakib14@gmail.com
+👋 Hi, I'm Sadab Shakib — a passionate Computer Science student with a love for building practical, people-focused software.<br><br>🌱 Learning full-stack web development and machine learning.<br><br>📫 Let's connect: sadabshakib14@gmail.com
 
 
 ## 🌐 Socials:
